@@ -5,7 +5,7 @@
 I'm driven by a passion for building impactful and user-centric solutions. I thrive in collaborative environments where I can leverage my technical skills to solve challenging problems and create innovative software that makes a real difference in the world 🌎
 
 ## My Skills ⚡
-[![## My Skills ⚡](https://skillicons.dev/icons?i=react,flutter,swift,py,java,js,html,cs,bash,mysql)](https://skillicons.dev)
+[![## My Skills ⚡](https://skillicons.dev/icons?i=,flutter,py,java,js,html,cs,bash,mysql)](https://skillicons.dev)
 
 ## Tools 📟
 [![## Tools 📟](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,unity,eclipse,vim,git,github)](https://skillicons.dev)
@@ -14,7 +14,7 @@ I'm driven by a passion for building impactful and user-centric solutions. I thr
 [![## OS 🖥️](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
 
 ## In progress... 📖
-[![## In progress📖](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+[![## In progress📖](https://skillicons.dev/icons?i=swift,react,azure,aws)](https://skillicons.dev)
 
 
 
